@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidCode/try/ReceiptPrint/app/src/main/res/layout/activity_input.xml" value="0.25" />
         <entry key="..\:/AndroidCode/try/ReceiptPrint/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/AndroidCode/try/ReceiptPrint/app/src/main/res/layout/content_main.xml" value="0.25" />
+        <entry key="..\:/AndroidCode/try/ReceiptPrint/app/src/main/res/layout/activity_setting.xml" value="0.1956521739130435" />
+        <entry key="..\:/AndroidCode/try/ReceiptPrint/app/src/main/res/layout/content_insert.xml" value="0.22" />
+        <entry key="..\:/AndroidCode/try/ReceiptPrint/app/src/main/res/layout/content_main.xml" value="0.33" />
+        <entry key="..\:/AndroidCode/try/ReceiptPrint/app/src/main/res/menu/menu_main.xml" value="0.2604166666666667" />
         <entry key="..\:/AndroidCode/try/ReceiptPrint/app/src/main/res/xml/file_provider.xml" value="0.1956521739130435" />
       </map>
     </option>

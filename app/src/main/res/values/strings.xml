@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ReceiptPrint</string>
+    <string name="app_name">UKWH.Co</string>
     <string name="action_settings">Settings</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
@@ -45,4 +45,16 @@
     </string>
     <string name="header_name">UKWH.Co</string>
     <string name="take_screenshoot">take screenshoot</string>
+    <string name="receipt_buy">Struk Pembelian</string>
+    <string name="order_id">Order Id</string>
+    <string name="costumer">Costumer</string>
+    <string name="product">Product</string>
+    <string name="phone_number">Nomor Hp</string>
+    <string name="amount">Amount</string>
+    <string name="thanks_for_your_order">Terima Kasih \nAtas Kepercayaan Anda!</string>
+    <string name="footer_notes">Silahkan cek kembali pembelian anda. Jika belum masuk silahkan hubungi saya kembali.</string>
+    <string name="product_list">UKWH.Co Sedia - Pulsa - Paket Data - Pulsa Listrik - Diamond ML - Diamond FF - UC PUBG - Top Up E-Money - Top Up E-Wallet (Dana, GoPay, ShopeePay, OVO, Link Aja, D.ll) - BPJS - Indihome - D.L.L</string>
+    <string name="setting">Pengaturan</string>
+    <string name="insert_detail">Masukkan Detail</string>
+    <string name="save">Simpan</string>
 </resources>
